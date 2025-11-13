@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brockodle
 - 👀 I’m interested in App Frontend Development
 - 🌱 I’m currently learning Angular, React, Vue.js, Liquid, and other mobile-first frameworks
-- 💞️ I’m looking to collaborate on anything related to JavaScript and Angular
+- 💞️ I’m looking to collaborate on anything in Software. Currently could use helping hands on a game in development.
 - 📫 How to reach me: brockodle@gmail.com, twitter.com/alphabit_soup
 
 <!---
